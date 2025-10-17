@@ -5,7 +5,6 @@ document.addEventListener('DOMContentLoaded', () => {
 });
 
 function loadNextQuestion() {
-    // Logic to load the next quiz question
+    // Logic to load the next question goes here
     console.log('Loading next question...');
-    // Add your question loading logic here
 }
