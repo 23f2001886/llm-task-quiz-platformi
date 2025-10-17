@@ -1,10 +1,6 @@
-document.addEventListener('DOMContentLoaded', () => {
+document.addEventListener('DOMContentLoaded', function() {
     const nextButton = document.getElementById('next-button');
-    nextButton.addEventListener('click', loadNextQuestion);
-    loadNextQuestion();
+    nextButton.addEventListener('click', function() {
+        // Logic to load the next question
+    });
 });
-
-function loadNextQuestion() {
-    // Logic to load the next question goes here
-    console.log('Loading next question...');
-}

@@ -1,19 +1,19 @@
-# Quiz App
+# Quiz Platform
 
 ## Overview
-This is a simple quiz application that allows users to take quizzes on various topics. The app has been enhanced to support SVG images for better UI representation.
+This is a simple quiz application that allows users to take quizzes on various topics. The application has been enhanced to support SVG images for better UI representation.
 
 ## Features
-- Dynamic quiz loading
 - SVG image support
 - Enhanced user interface
+- Bug fixes
 
 ## Installation
 1. Clone the repository.
-2. Open `index.html` in your web browser.
+2. Open `index.html` in your browser.
 
 ## Usage
-Click the 'Next Question' button to navigate through the quiz.
+Click on the 'Next Question' button to navigate through the quiz questions.
 
 ## License
 This project is licensed under the MIT License.
